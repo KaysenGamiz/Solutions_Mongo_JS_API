@@ -7,6 +7,6 @@
     "path": "^0.12.7"
   },
   "scripts": {
-    "start": "node --env-file env_var/.env eserver.js"
+    "start": "node --env-file env_var/.env server.js"
   }
 }
